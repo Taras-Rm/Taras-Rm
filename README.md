@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Taras-Rm
+- 👀 I’m interested in frontend and backend developement (React.js & Golang).

@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Taras-Rm
-- 👀 I’m interested in frontend and backend developement (React.js & Golang).
+- 👀 I’m interested in backend and frontend developement (React.js & Golang).
